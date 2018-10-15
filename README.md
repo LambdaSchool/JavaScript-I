@@ -28,7 +28,7 @@ The [arrays.js](assignments/arrays.js) assignment takes us through a large data 
 
 ### Stretch
 
-* [ ] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [stretch-function-conversion.js](assignments/stretch-function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.  
+* [ x ] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [stretch-function-conversion.js](assignments/stretch-function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.  
 
 * Move on to tomorrow's content and start studying callbacks, write a few of your own to get the hang of it.
 * Look at array methods like .map(), .reduce(), .filter(). use them on the data in the arrays assignment to accomplish the same things you did with the ES5 for loop.
